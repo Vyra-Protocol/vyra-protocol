@@ -9,3 +9,4 @@ Servers may respond with HTTP 402 including a JSON bill:
   "amount": "0.01",
   "memo": "article_42"
 }
+```
