@@ -10,3 +10,4 @@ Servers may respond with HTTP 402 including a JSON bill:
   "memo": "article_42"
 }
 ```
+Client pays → backend verifies via RPC → resource unlocks (200 OK).
